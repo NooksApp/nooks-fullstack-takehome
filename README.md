@@ -73,7 +73,7 @@ Feel free to use any resource on the Internet to help you tackle this challenge 
 
 ### Submission
 
-When you’ve finished, please send back your results to me (nikhil@nooks.in) and CC our recruiting lead Kev (kev@nooks.in) via email as a **zip file**. Make sure to include any instructions about how to run the app in the README.md. 
+When you’ve finished, please send back your results to me (nikhil@nooks.in) and CC our recruiting lead Haelin (haelin.kim@nooks.in) via email as a **zip file**. Make sure to include any instructions about how to run the app in the README.md. 
 
 I will take a look and schedule a time to talk about your solution!
 
